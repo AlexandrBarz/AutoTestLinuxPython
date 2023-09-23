@@ -1,0 +1,11 @@
+folder_in: /home/user1/tst
+folder_out: /home/user1/out
+folder_ext: /home/user1/folder1
+folder_ext3: /home/user1/folder3
+folder_bad: /home/user1/folder2
+count: 3
+bs: 10K
+exten: zip
+host: localhost
+user: user1
+passwd: "111"
